@@ -12967,6 +12967,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13040,6 +13044,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
       propertyPath: m_Name
       value: sheep
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13115,6 +13123,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13189,6 +13201,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13262,6 +13278,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
       propertyPath: m_Name
       value: sheep (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13521,6 +13541,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13716,6 +13740,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13789,6 +13817,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
       propertyPath: m_Name
       value: sheep (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14055,6 +14087,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14201,6 +14237,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14274,6 +14314,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
       propertyPath: m_Name
       value: sheep (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14602,6 +14646,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
       propertyPath: m_Name
       value: sheep (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14935,6 +14983,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15102,6 +15154,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15175,6 +15231,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
       propertyPath: m_Name
       value: sheep (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15250,6 +15310,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15324,6 +15388,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15397,6 +15465,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
       propertyPath: m_Name
       value: sheep
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15649,6 +15721,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15723,6 +15799,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15796,6 +15876,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
       propertyPath: m_Name
       value: sheep (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15964,6 +16048,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16038,6 +16126,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: sheep (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16111,6 +16203,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
       propertyPath: m_Name
       value: sheep (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c0bde59ca94f93149a6422fee0049b2e, type: 3}
+      propertyPath: m_TagString
+      value: Pick Up
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
